@@ -1,0 +1,19 @@
+{
+  "name": "claytongentry",
+  "version": "1.0.0",
+  "description": "A personal/professional website",
+  "main": "app.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/claytongentry/claytongentry.git"
+  },
+  "author": "Clayton Gentry",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/claytongentry/claytongentry/issues"
+  },
+  "homepage": "https://github.com/claytongentry/claytongentry#readme"
+}
