@@ -1,0 +1,61 @@
+body {
+  background: url("https://4.bp.blogspot.com/-iwUQLUqrlaU/Vv9ye5t8JHI/AAAAAAAB-0E/Nsep-xVmsQIjgjneKPWzIbjt1XZqe2bEQ/s0/Bald_Eagle_Portrait2_wallpaper.jpg") no-repeat bottom center scroll;
+  background-size: 100%;
+  /*background: rgb(152, 157, 150);*/
+  margin: 25px;
+  margin-left: 80px;
+  overflow-x: hidden;
+}
+
+.container-fluid {
+  height: 750px;
+}
+
+h1, h4 {
+  font-family: "Arvo", sans-serif;
+  font-size: 24px;
+}
+
+li {
+  font-family: "Arvo", serif;
+  font-size: 18px;
+  line-height: 32px;
+}
+
+a {
+  /*color: rgb(255, 200, 0);*/
+  color: white;
+}
+
+a:hover {
+  color: rgb(55, 45, 43);
+  text-decoration: none;
+}
+
+a:active {
+  color: inherit;
+}
+
+.shout {
+  font-size: 60px;
+}
+
+.social {
+  text-align: center;
+  list-style-type: none;
+  padding: 0;
+  margin: 0;
+  margin-top: 20px;
+}
+
+.social li {
+  display: inline;
+  margin-right: 10px;
+}
+
+@media (max-width: 1200px) {
+  body {
+    background: rgb(180, 180, 180);
+    margin: 10px;
+  }
+}
