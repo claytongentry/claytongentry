@@ -1,14 +1,10 @@
 body {
-  background: url("https://4.bp.blogspot.com/-iwUQLUqrlaU/Vv9ye5t8JHI/AAAAAAAB-0E/Nsep-xVmsQIjgjneKPWzIbjt1XZqe2bEQ/s0/Bald_Eagle_Portrait2_wallpaper.jpg") no-repeat bottom center scroll;
-  background-size: 100%;
-  /*background: rgb(152, 157, 150);*/
+  background: rgb(180, 180, 180);
+  background-position: absolute;
+  background-size: 1450px;
   margin: 25px;
   margin-left: 80px;
   overflow-x: hidden;
-}
-
-.container-fluid {
-  height: 750px;
 }
 
 h1, h4 {
@@ -23,7 +19,6 @@ li {
 }
 
 a {
-  /*color: rgb(255, 200, 0);*/
   color: white;
 }
 
@@ -55,7 +50,6 @@ a:active {
 
 @media (max-width: 1200px) {
   body {
-    background: rgb(180, 180, 180);
     margin: 10px;
   }
 }
